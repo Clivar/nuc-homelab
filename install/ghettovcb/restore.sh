@@ -1,0 +1,1 @@
+/opt/ghettovcb/bin/ghettoVCB-restore.sh -c vms_to_restore -d 1

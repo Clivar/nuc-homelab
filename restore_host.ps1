@@ -1,0 +1,1 @@
+Set-VMHostFirmware -VMHost esxi02 -Restore -SourcePath bundleToRestore.tgz -HostUser user -HostPassword pass
