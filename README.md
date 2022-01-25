@@ -4,3 +4,4 @@ Bootstrap a nuc with ESXi
 - Build an ESXi installation ISO with USB nic fling and e1000n ethernet driver
 - Cron job for monthly and daily backups
 - Boot script to initialise multiple USB nics
+- Backup/Restore ESXi configuration
